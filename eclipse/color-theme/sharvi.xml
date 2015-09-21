@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="27704" name="Sharvi" modified="2014-06-23 12:14:28" author="Rahul Yadava">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#FFFF77" />
+    <writeOccurrenceIndication color="#FFFF77" />
+    <sourceHoverBackground color="#D8D8D8" />
+    <singleLineComment color="#BABABA" />
+    <multiLineComment color="#BABABA" />
+    <commentTaskTag color="#FF3300" />
+    <javadoc color="#AEAEAE" />
+    <javadocLink color="#990099" />
+    <javadocTag color="#990099" />
+    <javadocKeyword color="#990099" />
+    <class color="#237237" bold="true" />
+    <interface color="#666666" bold="false" />
+    <method color="#000099" bold="false" />
+    <methodDeclaration color="#000099" />
+    <bracket color="#000099" />
+    <number color="#0000FF" />
+    <string color="#CC0000" />
+    <operator color="#0000FF" />
+    <keyword color="#000000" bold="true" italic="false" underline="false" strikethrough="false" />
+    <annotation color="#990000" />
+    <staticMethod color="#990000" />
+    <localVariable color="#0066FF" />
+    <localVariableDeclaration color="#000099" />
+    <field color="#000099" />
+    <staticField color="#552200" />
+    <staticFinalField color="#552200" />
+    <deprecatedMember color="#D8D8D8" />
+    <enum color="#FF0000" />
+    <inheritedMethod color="#000099" />
+    <abstractMethod color="#000099" />
+    <parameterVariable color="#0000FF" />
+    <typeArgument color="#0000FF" />
+    <typeParameter color="#237237" />
+    <constant color="#552200" />
+    <background color="#FBFBFB" />
+    <currentLine color="#FFFFFF" />
+    <foreground color="#333333" />
+    <lineNumber color="#D8D8D8" />
+    <selectionBackground color="#2F2F2F" />
+    <selectionForeground color="#FFFFFF" />
+</colorTheme>
